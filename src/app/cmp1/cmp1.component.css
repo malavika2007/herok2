@@ -1,5 +1,7 @@
 
 h2
 {
-    color: rgb(119, 0, 255);
+    color: rgb(255, 0, 0);
+    border: 5px solid green;
+    
 }
